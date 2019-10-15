@@ -1,4 +1,5 @@
 # frontend
+django-vue-demo项目的前端框架
 
 ## Project setup
 ```
